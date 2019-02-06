@@ -20,19 +20,19 @@ Sistem Pendukung Keputusan Pemilihan HP
 
 - Web
 
-    ![](./ss/.png)
+    ![](./ss/a.png)
     
-    ![](./ss/.png)
+    ![](./ss/b.png)
     
-    ![](./ss/.png)
+    ![](./ss/c.png)
     
-    ![](./ss/.png)
+    ![](./ss/d.png)
     
-    ![](./ss/.png)
+    ![](./ss/e.png)
     
-    ![](./ss/.png)
+    ![](./ss/f.png)
     
-    ![](./ss/.png)
+    ![](./ss/g.png)
     
 ## License
 > This program is Free Software: 
