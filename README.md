@@ -18,16 +18,20 @@ Sistem Pendukung Keputusan Pemilihan HP
 
 ## Screenshot
 
-- Login
+- Web
 
     ![](./ss/.png)
-
-- Dashboard
-
+    
     ![](./ss/.png)
-        
-- Kelola
-
+    
+    ![](./ss/.png)
+    
+    ![](./ss/.png)
+    
+    ![](./ss/.png)
+    
+    ![](./ss/.png)
+    
     ![](./ss/.png)
     
 ## License
