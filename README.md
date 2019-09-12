@@ -16,22 +16,20 @@
 ## Screenshot
 
 - ### Web
-
-    - Dashboard
     
-        ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/h.PNG)
+    ![](./ss/h.PNG)
     
-        ![](./ss/i.PNG)
+    ![](./ss/i.PNG)
     
-        ![](./ss/j.PNG)
+    ![](./ss/j.PNG)
     
-        ![](./ss/k.PNG)
+    ![](./ss/k.PNG)
     
-        ![](./ss/l.PNG)
+    ![](./ss/l.PNG)
     
-        ![](./ss/m.PNG)
+    ![](./ss/m.PNG)
     
-        ![](./ss/n.PNG)
+    ![](./ss/n.PNG)
     
 ## License
 > This program is Free Software: 
