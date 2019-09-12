@@ -17,19 +17,19 @@
 
 - ### Web
     
-    ![](./ss/h.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/h.PNG)
     
-    ![](./ss/i.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/i.PNG)
     
-    ![](./ss/j.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/j.PNG)
     
-    ![](./ss/k.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/k.PNG)
     
-    ![](./ss/l.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/l.PNG)
     
-    ![](./ss/m.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/m.PNG)
     
-    ![](./ss/n.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/n.PNG)
     
 ## License
 > This program is Free Software: 
