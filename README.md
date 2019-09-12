@@ -1,4 +1,4 @@
-# Sistem Pendukung Keputusan Pemilihan HP
+# Project Kerja Praktek Sistem Pengaduan Masyarakat Berbasis Web Dispendukcapil Bangkalan
 
 [![](https://gitlab.com/gitlab-org/gitlab-ee/badges/master/build.svg)](https://wahidari.github.io)
 [![](https://semaphoreci.com/api/v1/projects/2f1a5809-418b-4cc2-a1f4-819607579fe7/400484/shields_badge.svg)](https://wahidari.github.io)
@@ -15,23 +15,87 @@
 
 ## Screenshot
 
-- ### Web
+- ### Admin
+
+    - Login
+
+        ![](./ss/admin/login.png)
+
+    - Dashboard
+
+        ![](./ss/admin/dashboard.png)
+        
+    - Kelola
+
+        ![](./ss/admin/tables.png)
+        
+    - Hapus Laporan
+
+        ![](./ss/admin/hapus-laporan.png)
+        
+    - Balas Laporan
+
+        ![](./ss/admin/balas-laporan.png)
+        
+    - Detail Laporan
+
+        ![](./ss/admin/detail-laporan.png)
+        
+    - Ekspor
+
+        ![](./ss/admin/export.png)
+        
+    - Print
+
+        ![](./ss/admin/export-print.png)
+        
+- ### User
+
+    - Home
+
+        ![](./ss/user/user-home-1.png)
+        
+        ![](./ss/user/user-home-2.png)
+        
+    - Lapor
+
+        ![](./ss/user/user-lapor-1.png)
+        
+    - Lihat
+
+        ![](./ss/user/user-lihat-1.png)
+
+        ![](./ss/user/user-lihat-2.png)
+        
+    - Cara
+
+        ![](./ss/user/user-cara.png)
+        
+    - FAQ
+
+        ![](./ss/user/user-faq.png)
+        
+    - Bantuan
+
+        ![](./ss/user/user-bantuan.png)
+        
+    - Kontak
+
+        ![](./ss/user/user-kontak.png)
+        
+    - Profil Dinas
+
+        ![](./ss/user/user-profildinas.png)
+        
+        ![](./ss/user/user-profildinas-motto.png)
+        
+        ![](./ss/user/user-profildinas-struktur.png)
+        
+        ![](./ss/user/user-profildinas-visi.png)
     
-    ![](./ss/h.PNG)
-    
-    ![](./ss/i.PNG)
-    
-    ![](./ss/j.PNG)
-    
-    ![](./ss/k.PNG)
-    
-    ![](./ss/l.PNG)
-    
-    ![](./ss/m.PNG)
-    
-    ![](./ss/n.PNG)
     
 ## License
 > This program is Free Software: 
-You can use, study, share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) 
+You can use, study, share and improve it at your will. 
+Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) 
 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
