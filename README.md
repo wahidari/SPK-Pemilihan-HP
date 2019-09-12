@@ -17,19 +17,19 @@
 
 - ### Web
 
-    ![](./ss/a.png)
+    ![](./ss/a.PNG)
     
-    ![](./ss/b.png)
+    ![](./ss/b.PNG)
     
-    ![](./ss/c.png)
+    ![](./ss/c.PNG)
     
-    ![](./ss/d.png)
+    ![](./ss/d.PNG)
     
-    ![](./ss/e.png)
+    ![](./ss/e.PNG)
     
-    ![](./ss/f.png)
+    ![](./ss/f.PNG)
     
-    ![](./ss/g.png)
+    ![](./ss/g.PNG)
     
 ## License
 > This program is Free Software: 
