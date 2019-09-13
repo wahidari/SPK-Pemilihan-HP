@@ -17,19 +17,19 @@
 
 - ### Web
     
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/h.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/a.PNG)
     
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/i.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/b.PNG)
     
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/j.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/c.PNG)
     
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/k.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/d.PNG)
     
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/l.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/e.PNG)
     
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/m.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/f.PNG)
     
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/n.PNG)
+    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/g.PNG)
     
 ## License
 > This program is Free Software: 
